@@ -1,2 +1,2 @@
 # Ecommerce-Website
-its a shopping website
+ shopping website
